@@ -1,0 +1,8 @@
+Variable used in the script:
+“vpc_id”            => VPC ID
+“sub_id”            => Subnet ID
+“route_table”       => 
+“internet_gateway”  => 
+“sec_id”            => 
+“aws_image_id”      => 
+“i_type”            => free_tier
